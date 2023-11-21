@@ -1,0 +1,88 @@
+.container{
+    margin-top: 200px;
+    margin-left: 40px;
+    display: flex;
+    gap: 20px;
+}
+.box1{
+    background-image: url(./img/images\ \(1\).jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 360px;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: filter 1s;
+}
+.box1:hover{
+    filter: brightness(0.7);
+}
+.box2{
+    background-image: url(./img/rasm2.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 360px;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: filter 1s;
+}
+.box2:hover{
+    filter: brightness(0.7);
+}
+.box3{
+    background-image: url(./img/5834ce75241c0.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 360px;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: filter 1s;
+}
+.box3:hover{
+    filter: brightness(0.7);
+}
+.box4{
+    background-image: url(./img/rasm4.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 360px;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: filter .5s;
+}
+.box4:hover{
+    filter: brightness(0.7);
+}
+.yoz1{
+    color: #fff;
+    width: 300px;
+    height: 600px;
+    margin-top: 305px;
+    transition: 0.5s;
+}
+.yoz1:hover{
+    margin-top: 95px;
+    height: 500px;
+}
+.lorem1{
+    margin-top: -20px;
+    text-align: center;
+}
+.the1{
+    text-align: center;
+    font-size: 35px;
+    color: #fff;
+}
+.btn1{
+    width: 120px;
+    height: 35px;
+    border-radius: 20px;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    font-weight: 800;
+    margin-left: 90px;
+}
